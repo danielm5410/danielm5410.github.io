@@ -35,12 +35,12 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: #2460A7ff; /* White */
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #89cff0; /* changed to baby Blue */
     color: #ffffff;
 }
 
@@ -80,4 +80,9 @@ a {
 
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
+}
+
+.border {
+    border: solid #89cff0 100px;
+    border-thickness: 
 }
