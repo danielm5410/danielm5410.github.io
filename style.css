@@ -35,7 +35,7 @@ a {
 }
 
 .bg-1 {
-    background-color: #2460A7ff; /* White */
+    background-color: #fff; /* White */
     color: #555555;
 }
 
@@ -80,9 +80,4 @@ a {
 
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
-}
-
-.border {
-    border: solid #89cff0 100px;
-    border-thickness: 
 }
